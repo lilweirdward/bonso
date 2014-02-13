@@ -342,6 +342,7 @@ h1.contact-us {
 .button:hover {
 	background-color: #2498C9;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .button.komen {

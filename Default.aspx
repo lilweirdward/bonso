@@ -41,24 +41,24 @@
             <div class="row">
                 <div class="column size-6">
                     <img src="images/cardnation-red-alternate.gif" class="t-shirt">
-                    <a class="button" href="Store/CurrentDesigns/#CurrentDesigns">CardNation Red Shirt</a>
+                    <a class="button">CardNation Red Shirt</a>
                     <div>Price: $15.00</div>
                 </div>
                 <div class="column size-6">
                     <img src="images/cardnation-grey-alternate.gif" class="t-shirt">
-                    <a class="button" href="Store/CurrentDesigns/#CurrentDesigns">CardNation Grey Shirt</a>
+                    <a class="button">CardNation Grey Shirt</a>
                     <div>Price: $15.00</div>
                 </div>
             </div>
             <div class="row">
                 <div class="column size-6">
                     <img src="images/pink-komen-rise-above-alternate.gif" class="t-shirt">
-                    <a class="button" href="Store/CurrentDesigns/#KomenDesigns">Pink Komen Shirt</a>
+                    <a class="button">Pink Komen Shirt</a>
                     <div>Price: $15.00</div>
                 </div>
                 <div class="column size-6">
                     <img src="images/black-komen-ribbon-alternate.gif" class="t-shirt">
-                    <a class="button" href="Store/CurrentDesigns/#KomenDesigns">Black Komen Shirt</a>
+                    <a class="button">Black Komen Shirt</a>
                     <div>Price: $15.00</div>
                 </div>
             </div>
