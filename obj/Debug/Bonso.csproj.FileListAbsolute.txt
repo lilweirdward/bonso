@@ -18,3 +18,10 @@ C:\Users\zachw38\Dropbox\Web Folders\Bonso\Bonso\Bonso\bin\Newtonsoft.Json.xml
 C:\Users\zachw38\Dropbox\Web Folders\Bonso\Bonso\Bonso\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\zachw38\Dropbox\Web Folders\Bonso\Bonso\Bonso\obj\Debug\Bonso.dll
 C:\Users\zachw38\Dropbox\Web Folders\Bonso\Bonso\Bonso\obj\Debug\Bonso.pdb
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Bonso.dll.config
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Bonso.dll
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Bonso.pdb
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\obj\Debug\Bonso.dll
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\obj\Debug\Bonso.pdb

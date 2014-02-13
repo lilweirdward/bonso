@@ -162,7 +162,6 @@
     <Content Include="images\bonso-logo.svg" />
     <Content Include="Site.Master" />
     <Content Include="Web.config" />
-    <Content Include="Site.Mobile.Master" />
     <Content Include="Content\fonts\HelveticaNeueUltraLight\helveticaneueltpro-ultlt.eot" />
     <Content Include="Content\fonts\HelveticaNeueUltraLight\helveticaneueltpro-ultlt.ttf" />
     <Content Include="Content\fonts\HelveticaNeueUltraLight\helveticaneueltpro-ultlt.woff" />
@@ -206,13 +205,6 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
-    <Compile Include="Site.Mobile.Master.cs">
-      <DependentUpon>Site.Mobile.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Site.Mobile.Master.designer.cs">
-      <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
