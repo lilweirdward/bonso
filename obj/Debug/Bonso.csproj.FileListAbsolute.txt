@@ -25,3 +25,4 @@ C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\zachw38\Dropbox\Web Folders\Bonso\bin\Microsoft.Web.Infrastructure.xml
 C:\Users\zachw38\Dropbox\Web Folders\Bonso\obj\Debug\Bonso.dll
 C:\Users\zachw38\Dropbox\Web Folders\Bonso\obj\Debug\Bonso.pdb
+C:\Users\zachw38\Dropbox\Web Folders\Bonso\obj\Debug\Bonso.csprojResolveAssemblyReference.cache

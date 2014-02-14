@@ -1,15 +1,11 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Bonso._Default" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <div class="section hero">
+    <div id="bonsoco" class="section hero">
         <div class="container">
         </div>
     </div>
-    <div class="section background-1" style="display: none;">
-        <div class="container">
-        </div>
-    </div>
-    <div class="section about_us">
+    <div id="about_us" class="section about_us">
         <div class="container">
             <div class="row">
                 <div class="column size-12">
@@ -19,69 +15,61 @@
             <div class="row">
                 <div class="column size-12">
                     <p class="small-justify">
-                        Welcome to CardShirt! The CardShirt Company is a not-for-profit, student run business based out of the University of Louisville College of Business. Here at 
-                        CardShirt, we are dedicated to increasing interest in U of L athletics and academics through the creation and sale of an annually themed t-shirt all while boosting 
-                        student support and involvement. The company provides invaluable experience to students at the University of Louisville by providing the unique opportunity to 
-                        run a real business while generating profits for student scholarships.
+                        Welcome to BonsoCo.org! Bonso is a legal non-for-profit based in the Louisville area that believes in 
+                        creating the needed change in society. In order to generate the funds to Benefit Others Needing Support 
+                        for Opportunities, Bonso sells affordable, high quality promotional products to its consumers while 
+                        designating a portion of the sales revenue to the community through either a scholarship or donation. 
+                        The company also provides invaluable, real-world experience to our student workers by providing the 
+                        unique opportunity to operate in each division of the business structure.
                     </p>
                 </div>
-                <div class="column size-12">
-                    <img src="images/group-pic.jpg" style="width: 90%;">
-                </div>
             </div>
         </div>
     </div>
-    <div class="section background-2" style="display: none;">
-        <div class="container">
-        </div>
-    </div>
-    <div class="section store">
+    <div id="store" class="section store">
         <div class="container store">
             <h1>What Do We Do?</h1>
+            <p class="small-justify">
+                In short, we provide innovative designs, while raising funds to benefit your community. If you need promotional
+                work done for your organization, we're your guys! Even better, we'll use a portion of the proceeds to either write
+                a scholarship or donation in your name, to the recipient of your choosing. Does it really get much better than 
+                that?
+            </p>
+            <p class="small-justify">
+                While we are still in the process of rebranding and not just doing promotional work for the University of Louisville,
+                you can still get a taste of our work below.
+            </p>
             <div class="row">
-                <div class="column size-6">
-                    <img src="images/cardnation-red-alternate.gif" class="t-shirt">
-                    <a class="button">CardNation Red Shirt</a>
-                    <div>Price: $15.00</div>
-                </div>
-                <div class="column size-6">
+                <div class="column size-4">
                     <img src="images/cardnation-grey-alternate.gif" class="t-shirt">
-                    <a class="button">CardNation Grey Shirt</a>
-                    <div>Price: $15.00</div>
+                    <a class="button">CardNation Shirt</a>
                 </div>
-            </div>
-            <div class="row">
-                <div class="column size-6">
+                <div class="column size-4">
                     <img src="images/pink-komen-rise-above-alternate.gif" class="t-shirt">
                     <a class="button">Pink Komen Shirt</a>
-                    <div>Price: $15.00</div>
                 </div>
-                <div class="column size-6">
+                <div class="column size-4">
                     <img src="images/black-komen-ribbon-alternate.gif" class="t-shirt">
                     <a class="button">Black Komen Shirt</a>
-                    <div>Price: $15.00</div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="section contact">
+    <div id="contact" class="section contact">
         <div class="container contact">
-            <h1>Where Are We?</h1>
+            <h1>Can You Talk To Us?</h1>
+            <p class="small-justify">
+                But of course, my good friend! We're at all the usual social media sites, which you can find below. We'd love to
+                hear from you!
+            </p>
             <div class="row">
-                <div class="column size-4">
-                    <h2>E-Mail</h2>
-                    <div><img src="/images/email.png" style="vertical-align: middle;" /> <a href="mailto:thecardshirtco@gmail.com">TheCardShirtCo@gmail.com</a></div>
+                <div class="column size-6">
+                    <h2>Facebook</h2>
+                    <div><a href="https://www.facebook.com/bonsospirit" class="button">Facebook</a></div>
                 </div>
-                <div class="column size-4">
-                    <h2>Address</h2>
-                    <div>The CardShirt Company</div>
-                    <div>10605 Edgewater Rd.</div>
-                    <div>Louisville, KY 40223</div>
-                </div>
-                <div class="column size-4">
-                    <h2>Social</h2>
-                    <div><a href="https://www.facebook.com/Cardshirt"><img src="/images/followme_facebook.png" /></a></div>
-                    <div><a href="https://twitter.com/TheCardShirtCo"><img src="/images/followme_twitter.png" /></a></div>
+                <div class="column size-6">
+                    <h2>Twitter</h2>
+                    <div><a href="https://twitter.com/bonso_community" class="button">Twitter</a></div>
                 </div>
             </div>
         </div>
