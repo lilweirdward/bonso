@@ -160,6 +160,11 @@
     <Content Include="Global.asax" />
     <Content Include="images\bonso-logo.png" />
     <Content Include="images\bonso-logo.svg" />
+    <Content Include="images\cardnation-grey-alternate.gif" />
+    <Content Include="images\louisville-skyline-old.png" />
+    <Content Include="images\louisville-skyline.jpg" />
+    <Content Include="images\louisville-skyline.png" />
+    <Content Include="images\pink-komen-rise-above-alternate.gif" />
     <Content Include="Site.Master" />
     <Content Include="Web.config" />
     <Content Include="Content\fonts\HelveticaNeueUltraLight\helveticaneueltpro-ultlt.eot" />
