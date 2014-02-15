@@ -65,11 +65,11 @@
             <div class="row">
                 <div class="column size-6">
                     <h2>Facebook</h2>
-                    <div><a href="https://www.facebook.com/bonsospirit" class="button">Facebook</a></div>
+                    <div><a href="https://www.facebook.com/bonsospirit" target="_blank" class="button">Facebook</a></div>
                 </div>
                 <div class="column size-6">
                     <h2>Twitter</h2>
-                    <div><a href="https://twitter.com/bonso_community" class="button">Twitter</a></div>
+                    <div><a href="https://twitter.com/bonso_community" target="_blank" class="button">Twitter</a></div>
                 </div>
             </div>
         </div>
